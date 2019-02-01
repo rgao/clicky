@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Functionality
+
+This project is a simple click-based game that serves as an introduction to React usage. The elements dynamically change based on image clicks. Each successful click shuffles the pictures and no picture should be clicked more than once. 
+
 ## Available Scripts
 
 In the project directory, you can run:
