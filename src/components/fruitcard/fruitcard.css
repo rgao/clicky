@@ -1,0 +1,15 @@
+.fruitCard {
+    float: left
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    border: 2px solid black
+}
+
+.img-text {
+    color: goldenrod;
+    font-weight: bold
+}

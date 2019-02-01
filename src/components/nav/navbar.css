@@ -1,0 +1,9 @@
+nav {
+    font-weight: bold;
+    font-size: 32px
+}
+
+#score {
+    float: right;
+    color: green;
+}
